@@ -1,0 +1,2 @@
+
+printf "me\n\n" | ./aggregate --url /afs/ir/class/cs110/samples/assign5/small-static-feed.xml

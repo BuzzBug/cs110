@@ -1,0 +1,34 @@
+syscall(59) = 0
+syscall(12) = 24547328
+syscall(21) = -2
+syscall(9) = 139961216049152
+syscall(21) = -2
+syscall(2) = 3
+syscall(5) = 0
+syscall(9) = 139961215877120
+syscall(3) = 0
+syscall(21) = -2
+syscall(2) = 3
+syscall(0) = 832
+syscall(5) = 0
+syscall(9) = 139961209856000
+syscall(10) = 0
+syscall(9) = 139961213775872
+syscall(9) = 139961213800448
+syscall(3) = 0
+syscall(9) = 139961215873024
+syscall(9) = 139961215864832
+syscall(158) = 0
+syscall(10) = 0
+syscall(10) = 0
+syscall(10) = 0
+syscall(11) = 0
+syscall(1) = 12345
+6
+syscall(2) = 3
+syscall(1) = -9
+syscall(3) = 0
+syscall(0) = -9
+syscall(3) = -9
+syscall(231) = <no return>
+Program exited normally with status 0. 

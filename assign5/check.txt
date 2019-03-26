@@ -1,0 +1,32 @@
+Enter a search term [or just hit <enter> to quit]: That term appears in 219 articles.  Here are the top 15 of them:
+   1.) "Trucker bumps I-5 bridge, sees horror behind him" [appears 479 times].
+       "http://www.sfgate.com.cs110.jerrycainjr.com/news/us/article/Truck.....4.php"
+   2.) "Storm took classmates, parents as it swept through" [appears 109 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   3.) "Soldier's slaying prompts UK security review" [appears 101 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   4.) "Democrats seeking office have their eye on Sacramento" [appears 100 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   5.) "Syrian regime OKs peace talks amid skepticism" [appears 95 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   6.) "Ray Manzarek dies at 74; keyboardist for the Doors" [appears 93 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   7.) "Journalist and author Haynes Johnson dies at 81" [appears 93 times].
+       "http://www.sfgate.com.cs110.jerrycainjr.com/news/politics/article.....4.php"
+   8.) "Heinrich Rohrer dies at 79; a father of nanotechnology" [appears 92 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   9.) "IRS' last two commissioners deny lying; official to take the 5th" [appears 92 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+  10.) "Russia to pack up Arctic ice station after cracks develop in ice floe" [appears 92 times].
+       "http://feeds.washingtonpost.com.cs110.jerrycainjr.com/c/34656/f/6.....1.htm"
+  11.) "Judge: Ariz. sheriff's office profiles Latinos" [appears 91 times].
+       "http://www.sfgate.com.cs110.jerrycainjr.com/news/crime/article/Ju.....7.php"
+  12.) "Scouts’ vote on gays met with celebration, sadness" [appears 88 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  13.) "Conservative economists endorse immigration reform bill" [appears 87 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+  14.) "Boy Scouts approve plan to accept openly gay boys" [appears 87 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  15.) "Obama: Sexual assault threatens trust in military" [appears 87 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/polit.....n=rss"
+Enter a search term [or just hit <enter> to quit]: 

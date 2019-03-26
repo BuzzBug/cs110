@@ -1,0 +1,32 @@
+Enter a search term [or just hit <enter> to quit]: That term appears in 188 articles.  Here are the top 15 of them:
+   1.) "Soldier's slaying prompts UK security review" [appears 11 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   2.) "Democrats seeking office have their eye on Sacramento" [appears 9 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   3.) "Villaraigosa, Garcetti pledge smooth transition in mayor's office" [appears 9 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   4.) "I-5 bridge survivor: 'I can't believe we're alive'" [appears 9 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   5.) "USC made its offer to neuroscientists a no-brainer" [appears 8 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   6.) "Storm took classmates, parents as it swept through" [appears 8 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   7.) "Obama: Sexual assault threatens trust in military" [appears 8 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/polit.....n=rss"
+   8.) "Obama reveals conflicted thinking on drone strikes" [appears 7 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   9.) "French help Niger to kill last jihadist bombers" [appears 7 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  10.) "Wis. farmers, firefighters partner on hazards maps" [appears 7 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  11.) "NOAA predicts above-average hurricane season" [appears 6 times].
+       "http://feeds.chicagotribune.com.cs110.jerrycainjr.com/~r/chicagot.....1.htm"
+  12.) "Boy Scouts of America lifts ban on gay youth" [appears 6 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+  13.) "Can Tornado Alley become safer? Yes, within limits" [appears 6 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  14.) "Judge: Ariz. sheriff's office profiles Latinos" [appears 6 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  15.) "Some unions now angry about health care overhaul" [appears 6 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/polit.....n=rss"
+Enter a search term [or just hit <enter> to quit]: 

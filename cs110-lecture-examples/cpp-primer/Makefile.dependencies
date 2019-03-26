@@ -1,0 +1,11 @@
+couple.o: couple.cc couple.h
+stream-tokenizer.o: stream-tokenizer.cc stream-tokenizer.h \
+ /usr/include/libxml2/libxml/xmlstring.h \
+ /usr/include/libxml2/libxml/xmlversion.h \
+ /usr/include/libxml2/libxml/xmlexports.h
+dinner-party.o: dinner-party.cc couple.h
+find.o: find.cc
+stl-algorithm-showcase.o: stl-algorithm-showcase.cc
+vector-showcase.o: vector-showcase.cc
+map-showcase.o: map-showcase.cc stream-tokenizer.h \
+ /usr/class/cs110/local/include/string-utils.h

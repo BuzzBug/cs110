@@ -1,0 +1,65 @@
+Is it necessary to call sigprocmask?
+Yes, it is necessary to call sigprocmask and block SIGCHLD, so that when
+you check the number of available workers, you do not have any race
+conditions. If while checking this value a SIGCHLD signal were to come,
+you will end up checking the stale value of available workers (which is
+modified in markAvailableWorkers).
+
+Since sigsuspend will wake up as long as the child process returns or
+SIGSTOP, So Even if we don't block, it seems that the results are the
+same.
+So Do we really have to block child process first in getAvailableWorker?
+
+You really do.  In order to decide whether or not there are any available
+workers, you need to examine the numWorkersAvailable global variable.  you
+should only be examining it (and acting on whether it's zero or nonzero)
+when it's impossible for a SIGCHLD handler to be invoked and modify
+numWorkersAvailable.  Imagine this scenario:
+
+ while (numWorkersAvailable == 0) {
+   // really unfortunate time for all child processes to become
+   // available
+   sigsuspend(&mask);
+}
+ 
+The test passes, so you go into the body of the while loop, but before
+sigsuspend is called, all child processes become available, the SIGCHLD
+handler is invoked to ++ numWorkersAvailable up to its maximum value,
+the SIGCHLD handler exits, and you return to call sigsuspend, never to
+be interrupted again.  If that happens, you farm would be forever
+trapped in sigsuspend.
+
+close all workers:
+"cajole all child processes to exit by sending them EOFs"
+You have to close the respective file descriptor, which is interpreted as
+an EOF by the worker. After that you must sent a CONT signal, just like
+you do when you supply a number to be factorized to the worker.
+
+close(supplyfd) to send EOF and waitpid on all of them
+
+After closing the fild descriptor, send a sigcont to the child, then
+waitpid
+
+for each worker:
+  send EOF
+  SIGCONT
+
+for each worker:
+  waitpid(that worker)
+  
+  vs.
+
+for each worker:
+  send EOF
+  SIGCONT
+  waitpid(that worker)
+
+How are we sure that the children have finished running factorization
+before closing the child fds?  You cannot send EOF before making sure that
+the child process has become available again.  Make sure your waitpid has
+WUNTRACED in it, because here the worker will just stop and not terminate.
+you can: 1) wait for numWorkersAvailable to be kCPUs and keep on safely
+sigsuspending until you do , or you can call 2) getAvailableWorker kCPUs
+times as a way for waiting for all of them to self halt.
+
+Why or how does    

@@ -1,0 +1,27 @@
+When the child process call raise(SIGSTOP) it is stopping itself before it
+can begin any further execution, so that the prarentprocess can set
+required options for ptrace to work. Once the child process is continued
+by the parent, it will stop at the entry and exit of every system call,
+because it receives SIGTRAP signal.  At this point the parent can go and
+read register values corresponding to the respective system call.  
+
+ptrace(PTRACE_SETOPTIONS, pid, 0, PTRACE_O_TRACESYSGOOD) instructs kernel
+to set bit 7 of the wait status to be 1 for all SIGTRAPs sent to the
+tracer because a system call was made.
+
+You can check if the 7th bit of WSTOPSIG(status) is set to 1, to determine
+if the child process stopped due to a SIGTRAP (in which case we know a
+system call was encountered).  
+
+WSTOPSIG(status): returns the number of the signal which caused the child
+to stop.  should only be employed if WIFSTOPPED returns true.
+
+WIFSTOPPED(status): returns true if the child process was stopped by
+delivery of a signal. only possible if the call was done using WUNTRACED
+or when the child is being traced.
+
+You should see if WSTOPSIG(status) & 0x80 and if so, you know the seventh
+bit is 1 instead of 0.  if(WSTOPSIG(status) & 0x80)){...}
+
+The full test should be:
+if (WIFSTOPPED(status) && WSTOPSIG(status) & 0x80)) 

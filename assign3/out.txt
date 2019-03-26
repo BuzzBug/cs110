@@ -1,0 +1,113 @@
+changeset:   21:330cb07f0898
+tag:         tip
+user:        CS110 tools
+date:        Sun Apr 30 21:15:42 2017 -0700
+summary:     Tagged submit-assign3 for changeset 26e024b7ab39 (user-cchen9)
+
+changeset:   20:26e024b7ab39
+tag:         submit-assign3
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 30 21:15:04 2017 -0700
+summary:     reordered
+
+changeset:   19:6143d76f5a14
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 30 21:04:36 2017 -0700
+summary:     closed
+
+changeset:   18:4e9445d84b9d
+user:        CS110 tools
+date:        Sun Apr 30 16:50:10 2017 -0700
+summary:     Tagged submit-assign3 for changeset bb741dc4c7f4 (user-cchen9)
+
+changeset:   17:bb741dc4c7f4
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 30 16:49:16 2017 -0700
+summary:     addedmoreerror
+
+changeset:   16:8b815c3f2298
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 18:44:32 2017 -0700
+summary:     morechange
+
+changeset:   15:74a2e18b4b2f
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 18:19:43 2017 -0700
+summary:     beforeerrormessg
+
+changeset:   14:963461b1c489
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 12:05:05 2017 -0700
+summary:     more
+
+changeset:   13:200797a76467
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 11:35:12 2017 -0700
+summary:     morechange
+
+changeset:   12:d17458ef85dd
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 11:15:52 2017 -0700
+summary:     moretests
+
+changeset:   11:3be9ff5f6ab5
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sun Apr 23 10:32:21 2017 -0700
+summary:     subprocesschange
+
+changeset:   10:0e163e06ce91
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sat Apr 22 17:34:39 2017 -0700
+summary:     passedsanity
+
+changeset:   9:812c442180e7
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sat Apr 22 17:18:27 2017 -0700
+summary:     passessanity
+
+changeset:   8:1c263bfda5fe
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Sat Apr 22 17:02:16 2017 -0700
+summary:     farmb4subprocessmove
+
+changeset:   7:a541a1431a73
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Fri Apr 21 20:06:24 2017 -0700
+summary:     trace almost
+
+changeset:   6:374f69c39950
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Fri Apr 21 18:59:23 2017 -0700
+summary:     flushing
+
+changeset:   5:27dc84ca7519
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Fri Apr 21 14:46:45 2017 -0700
+summary:     traceinmaking
+
+changeset:   4:804d72a6b0ef
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Thu Apr 20 20:14:06 2017 -0700
+summary:     subprocesstest
+
+changeset:   3:af965da10ebe
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Thu Apr 20 19:33:33 2017 -0700
+summary:     subprocesswritten
+
+changeset:   2:e0d6113288b8
+user:        Clare Chen <cchen9@stanford.edu>
+date:        Thu Apr 20 16:58:02 2017 -0700
+summary:     pipelinewritten
+
+changeset:   1:91a4857bcb26
+user:        CS110 tools
+date:        Wed Apr 19 22:31:29 2017 -0700
+summary:     Tagged create-assign3 for changeset 67b13c7cf983 (user-cchen9)
+
+changeset:   0:67b13c7cf983
+tag:         create-assign3
+user:        CS110 tools
+date:        Wed Apr 19 22:31:29 2017 -0700
+summary:     Added assign3 16-3 starter files to repo
+

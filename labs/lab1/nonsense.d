@@ -1,0 +1,1 @@
+nonsense.o: nonsense.cc

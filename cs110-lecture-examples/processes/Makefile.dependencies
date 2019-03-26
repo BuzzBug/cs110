@@ -1,0 +1,32 @@
+basic-fork.o: basic-fork.c /usr/class/cs110/local/include/exit-utils.h
+fork-puzzle.o: fork-puzzle.c /usr/class/cs110/local/include/exit-utils.h
+parent-child.o: parent-child.c \
+ /usr/class/cs110/local/include/exit-utils.h
+separate.o: separate.c /usr/class/cs110/local/include/exit-utils.h
+reap-as-they-exit.o: reap-as-they-exit.c \
+ /usr/class/cs110/local/include/exit-utils.h
+reap-in-fork-order.o: reap-in-fork-order.c \
+ /usr/class/cs110/local/include/exit-utils.h
+mysystem.o: mysystem.c /usr/class/cs110/local/include/exit-utils.h
+segfault.o: segfault.c
+simplesh.o: simplesh.c /usr/class/cs110/local/include/exit-utils.h
+loop.o: loop.c
+pipe-experiment.o: pipe-experiment.c \
+ /usr/class/cs110/local/include/exit-utils.h
+subprocess.o: subprocess.c /usr/class/cs110/local/include/exit-utils.h
+signal-experiment.o: signal-experiment.c
+five-children.o: five-children.c \
+ /usr/class/cs110/local/include/exit-utils.h \
+ /usr/class/cs110/local/include/sleep-utils.h
+indistinguishable-pentuplets.o: indistinguishable-pentuplets.c \
+ /usr/class/cs110/local/include/exit-utils.h \
+ /usr/class/cs110/local/include/sleep-utils.h
+pentuplets.o: pentuplets.c /usr/class/cs110/local/include/exit-utils.h \
+ /usr/class/cs110/local/include/sleep-utils.h
+job-list-synchronization.o: job-list-synchronization.c \
+ /usr/class/cs110/local/include/exit-utils.h \
+ /usr/class/cs110/local/include/sleep-utils.h
+job-list-synchronization-improved.o: job-list-synchronization-improved.c \
+ /usr/class/cs110/local/include/exit-utils.h \
+ /usr/class/cs110/local/include/sleep-utils.h
+kill-puzzle.o: kill-puzzle.c

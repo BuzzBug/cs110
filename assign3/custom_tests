@@ -1,0 +1,11 @@
+./trace --simple ./simple-test1
+./trace --simple ./simple-test2
+./trace --simple ./simple-test3
+./trace --simple ./simple-test4
+./trace --simple ./simple-test5
+
+./trace ./simple-test1
+./trace ./simple-test2
+./trace ./simple-test3
+./trace ./simple-test4
+./trace ./simple-test5

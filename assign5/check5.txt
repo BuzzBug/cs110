@@ -1,0 +1,32 @@
+Enter a search term [or just hit <enter> to quit]: That term appears in 295 articles.  Here are the top 15 of them:
+   1.) "Summer cocktail preview" [appears 28 times].
+       "http://feeds.boston.com.cs110.jerrycainjr.com/c/35022/f/646891/s/.....1.htm"
+   2.) "2:30 P.m. - Talk sports and media with Chad Finn" [appears 24 times].
+       "http://feeds.boston.com.cs110.jerrycainjr.com/c/35022/f/646891/s/.....1.htm"
+   3.) "Hey, not-so-good looking: People often overrate their attractiven.....finds" [appears 14 times].
+       "http://feeds.boston.com.cs110.jerrycainjr.com/c/35022/f/646891/s/.....1.htm"
+   4.) "Soldier's slaying prompts UK security review" [appears 11 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+   5.) "Historic Hampton House Motel, part of Miami&#x2019;s black histor.....oject" [appears 10 times].
+       "http://www.miamiherald.com.cs110.jerrycainjr.com/2013/05/23/34114......html"
+   6.) "Landlord-tenant dispute in Hialeah turns deadly" [appears 10 times].
+       "http://www.miamiherald.com.cs110.jerrycainjr.com/2013/05/23/34131......html"
+   7.) "Daily Dose" [appears 9 times].
+       "http://feeds.boston.com.cs110.jerrycainjr.com/c/35022/f/646891/s/.....1.htm"
+   8.) "Democrats seeking office have their eye on Sacramento" [appears 9 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+   9.) "Villaraigosa, Garcetti pledge smooth transition in mayor's office" [appears 9 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+  10.) "I-5 bridge survivor: 'I can't believe we're alive'" [appears 9 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  11.) "Cuppacoffee to serve cup o' Joe and meat pies in Boston" [appears 8 times].
+       "http://feeds.boston.com.cs110.jerrycainjr.com/c/35022/f/646891/s/.....1.htm"
+  12.) "USC made its offer to neuroscientists a no-brainer" [appears 8 times].
+       "http://feeds.latimes.com.cs110.jerrycainjr.com/~r/latimes/news/~3.....1.htm"
+  13.) "Storm took classmates, parents as it swept through" [appears 8 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/natio.....n=rss"
+  14.) "Obama: Sexual assault threatens trust in military" [appears 8 times].
+       "http://seattletimes.nwsource.com.cs110.jerrycainjr.com/html/polit.....n=rss"
+  15.) "Summer travel: More crowds &#x2014; and, for fliers, fees" [appears 8 times].
+       "http://www.miamiherald.com.cs110.jerrycainjr.com/2013/05/22/34116......html"
+Enter a search term [or just hit <enter> to quit]: 
